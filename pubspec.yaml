@@ -24,4 +24,11 @@ flutter:
   uses-material-design: true
   assets:
     - images/
-
+  fonts:
+    - family: Chalkduster
+      fonts:
+      - asset: fonts/Chalkduster.ttf
+      
+    - family: RobotoBlack
+      fonts:
+      - asset: fonts/Roboto-Black.ttf
